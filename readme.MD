@@ -1,7 +1,7 @@
 # topic - product inventory management in manufacturing
 
-## title 1
+## Executive Summary
 
-## title 2
+## Requirements
 
-## title 3
+## Conclusion
